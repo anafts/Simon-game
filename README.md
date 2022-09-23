@@ -3,6 +3,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/anafts/Simon-game?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/anafts/Simon-game?style=for-the-badge)
 
+![anafts github io_Simon-game_](https://user-images.githubusercontent.com/106173948/192034084-017d4289-17b1-4859-8fbf-49312a887c15.png)
+
 
 <br><h4 align="center"> 🟢 Status do projeto:  Concluído ✔️   </h4> <br>
 
